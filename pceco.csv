@@ -1,0 +1,131 @@
+name;fam;hg;hemero;soceko;lf;lf_opis;class;choria;chory;pollen vector;pollen;csr;urbanity;stare lasy;L;T;C;M;SR;N
+Solanum dulcamara;Solanaceae;ap;2;12;C;CHN;Alnetea;zoo;zoo;insects;insects;c;3;0;7;5;x;8;x;8
+Ribes nigrum;Grossulariaceae;sp;p1;6;N;N;Alnetea;zoo;zoo;selfing, insects;selfing;c;2;1;4;x;7;9;6;5
+Lycopus europaeus;Lamiaceae;ap;2;7;H;HHy;Alnetea;anemo, zoo, hydro;anemo;insects;insects;cs;2;0;7;6;5;9;7;7
+Peucedanum palustre;Apiaceae;sp;p1;6;H;H;Alnetea;anemo, hydro;anemo;insects;insects;cs;1;0;7;6;6;9;x;4
+Scutellaria galericulata;Lamiaceae;sp;p2;6;H;H;Alnetea;anemo, hydro;anemo;selfing, insects;selfing;csr;1;0;7;6;5;9;7;6
+Thelypteris palustris;Thelypteridaceae;sp;p1;6;G;G;Alnetea;anemo;anemo;0;0;cs;1;0;5;6;x;6;5;6
+Alnus glutinosa;Betulaceae;ap;2;6;M;M;Alnetea;hydro, anemo, zoo;hydro;wind;wind;c;2;0;5;5;3;9;6;x
+Frangula alnus;Rhamnaceae;sp;p1;1;N;N;Rha-Pru;zoo;zoo;insects;insects;c;2;0;6;6;5;8;4;x
+Carex acuta;Cyperaceae;sp;p2;6;G;GHy;Phragm;anemo, hydro;anemo;wind;wind;cs;1;0;7;5;7;9;6;4
+Carex acutiformis;Cyperaceae;sp;p2;6;G;GHy;Phragm;anemo, hydro;anemo;wind;wind;cs;2;0;7;x;3;9;7;5
+Carex riparia;Cyperaceae;sp;p1;6;Hy;HyH;Phragm;anemo, hydro;anemo;wind;wind;cs;1;0;7;6;3;9;7;4
+Rubus caesius;Rosaceae;ap;4;12;Ch;ChN;Art.-Vulg;zoo;zoo;insects;insects;c;3;0;6;5;4;x;8;7
+Chaerophyllum temulentum;Apiaceae;ap;3;3;T;TH;Art.-Vulg;anemo, zoo;anemo;insects;insects;cr;3;0;5;6;3;5;0;8
+Acer campestre;Aceraceae;ap;1;1;M;M;Que-Fag;anemo;anemo;insects;insects;c;2;0;5;6;4;5;7;6
+Carpinus betulus;Corylaceae;sp;p2;1;M;M;Que-Fag;anemo, zoo;anemo;wind;wind;c;2;0;4;6;4;x;x;x
+Tilia cordata;Tiliaceae;ap;1;1;M;M;Que-Fag;anemo;anemo;insects;insects;c;2;0;5;5;4;5;x;5
+Prunus avium;Rosaceae;ap;1;1;M;M;Que-Fag;zoo;zoo;insects;insects;c;2;0;4;5;4;5;7;5
+Quercus robur;Fagaceae;ap;1;1;M;M;0;baro, zoo;zoo;wind;wind;c;2;0;7;6;6;x;x;x
+Acer platanoides;Aceraceae;ap;3;1;M;M;Que-Fag;anemo;anemo;insects;insects;c;3;0;4;6;4;x;x;x
+Acer pseudoplatanus;Aceraceae;ap;3;1;M;M;Que-Fag;anemo;anemo;insects;insects;c;3;0;4;x;4;6;x;7
+Hedera helix;Araliaceae;ap;1;1;Ch;ChN;Que-Fag;zoo;zoo;insects;insects;cs;3;1;4;5;2;5;x;x
+Viola reichenbachiana;Violaceae;sp;p1;1;H;H;Que-Fag;ballo, myrmeko;ballo;insects, selfing;insects;csr;2;1;4;x;4;5;7;6
+Atrichum undulatum;Polytrichaceae;sp;0;0;mech;0;Que-Fag;0;0;0;0;0;0;0;6;x ;5;6;4;x
+Brachypodium sylvaticum;Poaceae;sp;p1;1;H;H;Que-Fag;anemo;anemo;wind;wind;cs;2;1;3;5;3;5;6;6
+Lamiastrum galeobdolon;Lamiaceae;sp;V;1;C;C;Que-Fag;myrmeko;myrmeko;insects;insects;cs;2;1;3;5;4;5;7;5
+Aegopodium podagraria;Apiaceae;ap;3;3;H;H;Art.-Vulg;anemo;anemo;insects;insects;c;3;1;5;5;3;6;7;8
+Cornus sanguinea;Cornaceae;sp;p1;1;N;N;Rha-Pru;zoo;zoo;insects;insects;c;2;0;7;5;4;5;7;x
+Fraxinus excelsior;Oleaceae;ap;1;1;M;M;Que-Fag;anemo, hydro;anemo;wind;wind;c;2;0;4;5;3;x;7;7
+Prunus padus;Rosaceae;sp;p2;1;M;M;Que-Fag;zoo;zoo;insects;insects;c;2;0;5;5;3;8;7;6
+Ulmus minor;Ulmaceae;ap;1;1;M;M;Que-Fag;anemo;anemo;wind;wind;c;2;0;5;7;5;x;8;x
+Festuca gigantea;Poaceae;sp;p2;1;H;H;Que-Fag;anemo;anemo;wind;wind;cs;2;1;4;5;3;7;6;6
+Paris quadrifolia;Liliaceae;sp;V;1;G;G;Que-Fag;zoo;zoo;selfing, insects;selfing;csr;1;1;3;x;4;6;7;7
+Ribes spicatum;Grossulariaceae;sp;p1;1;N;N;Que-Fag;zoo;zoo;insects, selfing;insects;c;1;1;4;5;7;8;7;7
+Viburnum opulus;Caprifoliaceae;sp;p1;1;N;N;Que-Fag;zoo;zoo;insects, selfing;insects;c;2;0;6;5;3;x;7;6
+Plagiomnium undulatum;Mniaceae;sp;0;0;mech;0;Que-Fag;0;0;0;0;0;0;0;4;3;5;6;6;x
+Pinus sylvestris;Pinaceae;sp;3;2;M;M;Vac-Pic;anemo/zoo;anemo;wind;wind;c;1;0;7;x;7;x;x;x
+Dicranum scoparium;Dicranaceae;sp;0;0;mech;0;Cal-Uli;0;0;0;0;0;0;0;5; x  ;5;4;4;x
+Pleurozium schreberi;Hyphnaceae;sp;0;0;mech;0;Vac-Pic;0;0;0;0;0;0;0;6;3;5;4;2;x
+Pseudoscleropodium purum;Hyphnaceae;sp;0;0;mech;0;Vac-Pic;0;0;0;0;0;0;0;6;4;5;4;5;x
+Robinia pseudacacia;Fabaceae;kn;5;3;M;M;Art.-Vulg;anemo, zoo;anemo;insects;insects;c;3;0;5;6;4;4;x;8
+Chelidonium majus;Papaveraceae;ap;4;3;H;H;Art.-Vulg;myrmeko;myrmeko;insects;insects;cr;4;0;6;6;x;5;x;8
+Poa nemoralis;Poaceae;ap;1;1;H;H;Que-Fag;anemo;anemo;wind;wind;csr;3;1;5;x;5;5;5;4
+Polytrichastrum formosum;Polytrichaceae;sp;0;0;mech;0;Q. roboris-petrae;0;0;0;0;0;0;0;7;3;5;5;2;x
+Populus alba;Salicaceae;ap;2;1;M;M;Salicetea;anemo;anemo;wind;wind;c;3;0;5;7;7;7;8;6
+Acer negundo;Aceraceae;kn;4;1;M;M;0;anemo;anemo;wind;wind;c;4;0;5;6;6;6;7;7
+Betula pendula;Betulaceae;ap;2;2;M;M;0;anemo;anemo;wind;wind;c;3;0;7;x;x;x;x;x
+Betula pubescens;Betulaceae;sp;V;6;M;M;Vac-Pic;anemo;anemo;wind;wind;cs;1;0;7;x;x;8;3;3
+Fagus sylvatica;Fagaceae;kn;1;1;M;M;Que-Fag;zoo, baro;zoo;wind;wind;c;2;0;3;5;2;5;x;x
+Populus tremula;Salicaceae;ap;1;2;M;M;0;anemo;anemo;wind;wind;c;2;0;6;5;5;5;x;x
+Populus x canadensis;Salicaceae;kn;3;1;M;M;0;anemo;anemo;wind;wind;c;3;0;x;x;x;x;x;x
+Prunus serotina;Rosaceae;kn;4;2;M;M;0;zoo;zoo;insects, wind;insects;c;2;0;6;6;x;5;x;x
+Quercus petraea;Fagaceae;sp;V;2;M;M;0;baro, zoo;zoo;wind;wind;c;2;0;6;6;2;5;x;x
+Quercus rubra;Fagaceae;kn;1;2;M;M;0;baro, zoo;zoo;wind;wind;c;2;0;x;x;x;x;x;x
+Corylus avellana;Corylaceae;ap;1;1;N;N;Rha-Pru;zoo;zoo;wind;wind;c;2;0;6;5;3;x;x;5
+Crataegus monogyna;Rosaceae;ap;2;1;N;NM;Rha-Pru;zoo;zoo;insects;insects;c;2;0;7;5;3;4;8;4
+Euonymus europaeus;Celastraceae;sp;p1;1;N;N;Rha-Pru;zoo;zoo;insects;insects;c;2;0;6;5;3;5;8;5
+Lonicera xylosteum;Caprifoliaceae;sp;V;1;N;N;Que-Fag;zoo;zoo;insects;insects;c;2;0;5;6;4;5;7;6
+Pyrus communis;Rosaceae;ap;1;1;M;M;0;zoo;zoo;insects;insects;c;4;0;6;6;5;5;8;x
+Sambucus nigra;Caprifoliaceae;ap;4;3;N;N;Rha-Pru;zoo;zoo;selfing, insects;selfing;c;3;0;7;5;3;5;x;9
+Sorbus aucuparia;Rosaceae;ap;1;2;N;NM;0;zoo;zoo;insects;insects;c;2;0;6;x;x;x;4;x
+Symphoricarpos albus;Caprifoliaceae;kn;1;1;N;N;0;zoo;zoo;insects;insects;c;3;0;x;x;x;x;x;x
+Agrostis gigantea;Poaceae;ap;3;8;H;H;Mol-Arr;anemo;anemo;wind;wind;c;2;0;7;5;3;8;7;6
+Alliaria petiolata;Brassicaceae;ap;2;3;H;H;Art.-Vulg;anemo;anemo;selfing;selfing;cr;2;0;5;6;3;5;7;9
+Anthriscus sylvestris;Apiaceae;ap;3;3;H;H;Art.-Vulg;anemo;anemo;insects;insects;c;3;0;7;x;5;5;x;8
+Bidens frondosa;Asteraceae;kn;4;11;T;T;Bidentetea;zoo, hydro;zoo;selfing;selfing;cr;3;0;7;6;x;8;7;8
+Brachythecium rutabulum;Brachytheciaceae;ap;0;0;mech;0;0;0;0;0;0;0;0;0;5;x ;5;4;x ;x
+Brachythecium velutinum;Brachytheciaceae;sp;0;0;mech;0;0;0;0;0;0;0;0;0;5;3;5;4;6;x
+Bromus tectorum;Poaceae;arch;4;14;T;T;Ste-Med.;anemo;anemo;self/cleisto;selfing;r;3;0;8;6;7;3;8;4
+Calamagrostis epigeios;Poaceae;ap;4;2;G;G;Epilobietea;anemo;anemo;wind;wind;c;3;0;7;5;7;x;x;6
+Calliergon giganteum;Amblystegiaceae;sp;0;0;mech;0;Sch-Cari;0;0;0;0;0;0;0;8;3;5;8;8;x
+Calliergonella cuspidata;Amblystegiaceae;sp;0;0;mech;0;0;0;0;0;0;0;0;0;8;3;5;7;7;x
+Calystegia sepium;Convolvulaceae;ap;2;12;G;GHLi;Art.-Vulg;hydro, baro;hydro;insects;insects;c;3;0;8;6;5;6;7;9
+Carex hirta;Cyperaceae;ap;4;10;G;G;Mol-Arr;anemo;anemo;wind;wind;c;3;0;7;6;3;6;x;5
+Carex paniculata;Cyperaceae;sp;p1;6;H;H;Phragm;anemo, hydro;anemo;wind;wind;cs;1;0;7;x;3;9;6;4
+Chenopodium strictum;Chenopodiaceae;kn;1;14;T;T;Ste-Med.;anemo, zoo, antropo;anemo;wind;wind;cr;5;0;9;7;7;4;x;6
+Cirsium oleraceum;Asteraceae;ap;p3;8;H;H;Mol-Arr;anemo;anemo;insects;insects;c;2;0;6;x;3;7;7;5
+Crataegus rhipidophyla;Rosaceae;sp;I;1;N;N;Rha-Pru;zoo;zoo;insects, selfing;insects;c;2;0;x;x;x;x;x;x
+Dactylis glomerata;Poaceae;ap;5;9;H;H;Mol-Arr;anemo;anemo;wind;wind;c;3;0;7;x;3;5;x;6
+Deschampsia cespitosa;Poaceae;ap;2;8;H;H;Mol-Arr;anemo;anemo;wind;wind;c;2;0;6;x;x;7;x;3
+Dryopteris carthusiana;Aspidiaceae;ap;1;1;H;H;0;anemo;anemo;0;0;cs;2;1;5;x;3;x;4;3
+Dryopteris dilatata;Aspidiaceae;ap;1;1;H;H;Vac-Pic;anemo;anemo;wind;wind;cs;1;1;4;x;3;6;x;7
+Dryopteris filix-mas;Aspidiaceae;ap;1;1;H;H;Que-Fag;anemo;anemo;0;0;cs;2;1;3;x;3;5;5;6
+Elymus repens;Poaceae;ap;6;10;G;G;Art.-Vulg;anemo;anemo;wind;wind;c;3;0;7;6;7;0;0;7
+Eupatorium cannabinum;Asteraceae;sp;p2;7;H;H;Art.-Vulg;anemo;anemo;insects;insects;c;2;0;7;5;3;7;7;8
+Euphorbia cyparissias;Euphorbiaceae;ap;4;5;H;HG;Fes-Bro;ballo, myrmeko;auto;insects;insects;csr;2;0;8;x;4;3;x;3
+Festuca ovina;Poaceae;ap;1;5;H;H;Koe-Cory;anemo;anemo;wind;wind;csr;2;0;7;x;3;x;3;1
+Festuca rubra;Poaceae;ap;5;9;H;H;Mol-Arr;anemo;anemo;wind;wind;c;3;0;x;x;5;6;6;x
+Filipendula ulmaria;Rosaceae;sp;p2;8;H;H;Mol-Arr;anemo, hydro;anemo;insects, selfing;insects;c;2;0;7;5;x;8;x;5
+Galeopsis tetrahit;Lamiaceae;ap;3;2;T;T;Art.-Vulg;zoo;zoo;insects;insects;cr;3;0;7;x;3;5;x;6
+Galium album;Rubiacrae;ap;0;9;H;H;Mol-Arr;anemo;anemo;insects;insects;c;3;0;7;x;3;5;7;5
+Galium aparine;Rubiaceae;ap;4;3;T;T;Art.-Vulg;zoo;zoo;selfing, insects;selfing;cr;3;0;7;6;3;x;6;8
+Galium palustre;Rubiaceae;sp;p3;6;H;H;Phragm;anemo, zoo, hydro;anemo;insects, selfing;insects;cs;1;0;6;5;3;9;x;4
+Geranium robertianum;Geraniaceae;ap;2;3;T;TH;Art.-Vulg;ballochoria;auto;selfing, insects;selfing;csr;3;0;5;x;3;x;x;7
+Geum rivale;Rosaceae;sp;p2;8;H;H;Mol-Arr;zoo;zoo;insects;insects;csr;1;0;6;x;5;8;x;4
+Geum urbanum;Rosaceae;ap;3;3;H;H;Art.-Vulg;zoo;zoo;selfing, insects;selfing;csr;3;0;4;5;5;5;x;7
+Glechoma hederacea;Lamiaceae;ap;3;3;G;GH;Art.-Vulg;zoo, myrmeko, ballo;zoo;insects;insects;csr;3;0;6;6;3;6;x;7
+Grimmia incurva;Grimmiaceae;ap;0;0;mech;mech;0;0;0;0;0;0;0;0;4;2;6;3;1;x
+Heracleum sphondyliu ssp. sphondylium;Apiaceae;ap;4;9;H;H;Art.-Vulg;anemo;anemo;insects, geintogamy;insects;c;2;0;7;5;2;5;x;8
+Holcus lanatus;Poaceae;ap;2;9;H;H;Mol-Arr;anemo;anemo;wind, selfing;wind;c;2;0;7;6;3;6;x;5
+Humulus lupulus;Cannabaceae;ap;3;3;H;H;Art.-Vulg;anemo;anemo;wind;wind;c;3;0;7;6;3;8;6;8
+Hypnum cupressiforme;Hyphnaceae;sp;0;0;mech;0;Q. roboris-petrae;0;0;0;0;0;0;0;5; x  ;5;4;4;x
+Impatiens parviflora;Balsaminaceae;kn;5;3;T;T;Art.-Vulg;ballochoria;auto;selfing, cleisto, insects;selfing;sr;2;0;4;6;5;5;x;6
+Iris pseudacorus;Iridaceae;sp;p2;6;Hy;HyG;Phragm;anemo, hydro;anemo;insects;insects;cs;1;0;7;6;3;9;x;7
+Ligustrum vulgare;Oleaceae;kn;1;1;N;N;Rha-Pru;zoo;zoo;insects, selfing;insects;c;2;0;7;6;3;4;8;3
+Lysimachia vulgaris;Primulaceae;sp;p3;8;H;H;Mol-Arr;anemo;anemo;insects;insects;cs;1;0;6;x;x;8;x;x
+Lythrum salicaria;Lythraceae;ap;2;8;H;H;Mol-Arr;anemo, zoo, hydro;anemo;insects, selfing;insects;cs;2;0;7;5;5;8;6;x
+Mentha aquatica;Lamiaceae;sp;p2;7;H;HHy;Phragm;anemo, hydro;anemo;insects;insects;cs;1;0;7;5;3;9;7;5
+Moehringia trinervia;Caryophyllaceae;sp;p2;1;T;TH;Art.-Vulg;myrmeko;myrmeko;selfing, insects;selfing;csr;2;1;4;5;3;5;6;7
+Molinia caerulea;Poaceae;sp;p1;8;H;H;Mol-Arr;anemo;anemo;wind;wind;cs;1;0;7;x;3;7;x;2
+Myosotis scorpioides;Boraginaceae;sp;p3;7;H;H;Mol-Arr;hydro, zoo;hydro;selfing, insects;selfing;csr;1;0;7;x;5;8;x;5
+Phragmites australis;Poaceae;ap;2;7;G;GHy;Phragm;anemo;anemo;wind;wind;cs;2;0;7;5;x;10;7;7
+Plagiomnium affine;Mniaceae;sp;0;0;mech;0;0;0;0;0;0;0;0;0;5;4;5;5;5;x
+Poa angustifolia;Poaceae;ap;3;4;H;H;Fes-Bro;anemo;anemo;wind;wind;cs;3;0;7;6;x;x;x;3
+Poa annua;Poaceae;ap;5;10;T;TH;Polygono-Poetea;anemo;anemo;selfing, wind, cleisto;selfing;r;3;0;7;x;5;6;x;8
+Poa compressa;Poaceae;ap;4;13;H;H;Fes-Bro;anemo;anemo;wind;wind;csr;3;0;9;x;4;3;9;3
+Prunus insititia;Rosaceae;ap;3;1;M;MN;0;zoo;zoo;insects, selfing;insects;c;3;0;x;x;x;x;x;x
+Ranunculus repens;Ranunculaceae;ap;3;10;H;H;Mol-Arr;anemo;anemo;insects;insects;csr;3;0;6;x;x;7;x;7
+Ribes alpinum;Grossulariaceae;kn;1;1;N;N;Que-Fag;zoo;zoo;insects;insects;c;3;0;5;4;4;x;8;7
+Ribes rubrum;Grossulariaceae;ef;0;18;N;N;0;zoo;zoo;insects, selfing;insects;c;2;0;4;6;7;8;6;6
+Ribes uva-crispa;Grossulariaceae;kn;4;1;N;N;0;zoo;zoo;insects;insects;c;4;1;4;5;2;x;x;6
+Rosa canina;Rosaceae;ap;2;1;N;N;Rha-Pru;zoo;zoo;insects;insects;c;2;0;8;5;3;4;x;x
+Rubus fruticosus coll.;Rosaceae;ap;0;2;N;N;Rha-Pru;zoo;zoo;insects, selfing;insects;c;3;0;x;x;x;x;x;x
+Rubus idaeus;Rosaceae;ap;1;1;N;N;Epilobietea;zoo;zoo;selfing, insects;selfing;c;2;0;7;x;x;x;x;6
+Solidago canadensis;Asteraceae;kn;4;12;H;HG;Art.-Vulg;anemo;anemo;insects;insects;c;3;0;8;6;5;x;x;6
+Solidago gigantea;Asteraceae;kn;3;12;H;HG;Art.-Vulg;anemo;anemo;insects;insects;c;2;0;8;6;5;6;x;7
+Stachys sylvatica;Lamiaceae;sp;p1;1;H;H;Que-Fag;anemo, zoo;anemo;insects;insects;cs;2;1;4;x;3;7;7;7
+Stellaria media;Caryophyllaceae;ap;5;15;T;T;Ste-Med.;anemo, antropo;anemo;selfing, insects;selfing;cr;3;0;6;x;x;x;7;8
+Taraxacum officinale;Asteraceae;ap;6;9;H;H;Mol-Arr;anemo, myrmeko;anemo;insects;insects;csr;3;0;7;x;x;5;x;8
+Urtica dioica;Urticaceae;ap;5;12;H;H;Art.-Vulg;anemo, zoo;anemo;wind;wind;c;3;0;x;x;x;6;7;9
+Viburnum lantana;Caprifoliaceae;kn;1;1;N;N;0;zoo;zoo;selfing, insects;selfing;cs;1;0;7;5;2;4;8;4
