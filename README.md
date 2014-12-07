@@ -22,7 +22,7 @@ test<-tabelka (pceco,pctab)
 head (test)
 ```
 Now, we can test functions from `wyk_*` and `l_*` families, applied on floristic list:
-```(r eval=FALSE}
+```{r eval=FALSE}
 wyk_fam(pceco)#plot families
 l_hg(pceco)#get table of the historical-geographical groups share
 ```
