@@ -3,6 +3,7 @@
 #'@description This function provides tools to extract synthetic ecological variables from releves. It is constrained to Polish specific conditions and research traditions. However, it supply the quantitative analysis of material and let it be analysed.
 #'I don't know what do you need, so feel free to modify the body of the function by adding your custom indices.
 #'Mean Ellenberg's indicator values are means weighted by species' abundance. 
+#'The usage of functions need `data frame` with colnames like in example. It is (unfortunetaly) essential to **keep the order and names of columns** - because function `tabelka()` is very simple/primitive. 
 #'@param eco Tabelka ze wskaźnikami ekologicznymi (baza danych)
 #'@param tab tabela fitosocjologiczna
 #' @export
