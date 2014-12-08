@@ -3,16 +3,58 @@
 \alias{tabelka}
 \title{Phytosociological releves analysis}
 \usage{
-tabelka(eco, tab)
+tabelka(eco, tab, type = "veg")
 }
 \arguments{
 \item{eco}{Tabelka ze wskaźnikami ekologicznymi (baza danych)}
 
 \item{tab}{tabela fitosocjologiczna}
+
+\item{type}{c("veg","flo") veg is for vegetation data, flo is for floras}
+}
+\value{
+table of parameters:
+\describe{
+\item{sp}{Share of spontaneophytes}
+\item{ap}{Share of apophytes}
+\item{kn}{Share of spontaneophytes}
+\item{oxysph}{Share of species from Oxycocco-Sphagnetea}
+\item{stemed}{Share of species from Stellarietea mediae}
+\item{qrp}{Share of species from Quercetea roboris-petrae}
+\item{qf}{Share of species from Querco-Fagetea}
+\item{alnetea}{Share of species from Alnetea glutinosae}
+\item{vcpic}{Share of species from Vaccinio-Piceetea}
+\item{phrag}{Share of species from Phragmitetea}
+\item{art}{Share of species from Artemisietea vulgaris}
+\item{molarr}{Share of species from Molinio-Arrhenathereta}
+\item{sch_car}{Share of species from Scheuchzerio-Caricetea}
+\item{oldfor}{Share of Ancient Woodland Indicator species }
+\item{rich}{Species richness - number of species in releve [vegetation only]}
+\item{N}{Mean Ellenberg's fertility index [vegetation only]}
+\item{M}{Mean Ellenberg's moisture index [vegetation only]}
+\item{L}{Mean Ellenberg's ligth index [vegetation only]}
+\item{SR}{Mean Ellenberg's soil reaction index [vegetation only]}
+\item{lf_F}{Share of phanerophytes [flora only]}
+\item{lf_H}{Share of hemicryptophytes [flora only]}
+\item{lf_C}{Share of chamaephytes [flora only]}
+\item{lf_G}{Share of geophytes [flora only]}
+\item{lf_T}{Share of terophytes [flora only]}
+\item{lf_Hy}{Share of hydrophytes [flora only]}
+}
 }
 \description{
 This function provides tools to extract synthetic ecological variables from releves. It is constrained to Polish specific conditions and research traditions. However, it supply the quantitative analysis of material and let it be analysed.
 I don't know what do you need, so feel free to modify the body of the function by adding your custom indices.
 Mean Ellenberg's indicator values are means weighted by species' abundance.
+The usage of functions need `data frame` with colnames like in example. It is (unfortunetaly) essential to **keep the names of columns** - because function `tabelka()` is very simple/primitive.
+WARNING:The order of species names in vegetation table MUST BE the same as in eco-database! It need revision
+}
+\examples{
+data(pceco)
+data(pctab)
+tabelka(pceco,pctab)
+}
+\references{
+See References in pceco dataset
 }
 

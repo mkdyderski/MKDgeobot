@@ -3,35 +3,30 @@
 \alias{MKDgeobot}
 \docType{package}
 \title{
-What the package does (short line)
-~~ package title ~~
+Tools for geobotanical analysis
 }
 \description{
-More about what it does (maybe more than one line)
-~~ A concise (1-5 lines) description of the package ~~
+Functions for flora and vegetation analysis. Extracting ecological indices and ploting them using ggplot2.
 }
 \details{
 \tabular{ll}{
 Package: \tab MKDgeobot\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
+Version: \tab 0.3\cr
 Date: \tab 2014-12-07\cr
-License: \tab What license is it under?\cr
+License: \tab GPL 2.0\cr
 }
 ~~ An overview of how to use the package, including the most important ~~
 ~~ functions ~~
 }
 \author{
-Who wrote it
-
-Maintainer: Who to complain to <yourfault@somewhere.net>
-~~ The author and/or maintainer of the package ~~
+Marcin K. Dyderski
+Complains, conclusions, improvements: <Marcin.Dyderski@gmail.com>
 }
 \references{
 ~~ Literature or other references for background information ~~
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in the ~~
-~~ R documentation directory ~~
+
 \keyword{ package }
 \seealso{
 ~~ Optional links to other man pages, e.g. ~~

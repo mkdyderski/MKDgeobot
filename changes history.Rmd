@@ -1,0 +1,15 @@
+---
+title: "History of changes"
+author: "Marcin K. Dyderski"
+date: "Monday, December 08, 2014"
+output: html_document
+---
+
+History of changes
+=======
+*version 0.2*
+The package was developed and pushed into GitHub for its very first time;)
+
+*version 0.3*
+I made function `tabelka()` independent on column-order and row-order. Now the colnames of datasets imported from JUICE (with species names like 'Acer.negundo_4') are transformed into normal latin names (in this case into 'Acer negundo'). It allows the funtion to use ecological variables dataset to different data.
+I also improved this function by using two variants: for vegetation analysis (deflaut) and floristic analysis (more variables). Documentation for this function was improved.

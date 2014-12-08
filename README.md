@@ -30,7 +30,9 @@ l_hg(pceco)#get table of the historical-geographical groups share
 What will be improved?
 ========
 I would like to:
-- make function (tabelka) independent to order of columns
 - make functions more editable and modificable
 - include options of different methods of data visualisation (black and white and colour)
 
+Acknowledgement
+=====
+I would like to thank beta-tester of this package, Mr. Jarosław Tyborski (Botanical Section of Forestry Students Association, Poznań University of Life Sciences).

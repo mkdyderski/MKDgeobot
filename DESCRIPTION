@@ -7,6 +7,7 @@ Author: Marcin K. Dyderski
 Maintainer: Marcin K. Dyderski <Marcin.Dyderski@gmail.com>
 Description: Geobotanic analyses of flora and vegetation.
 License: GPL and something like this. No warranty cause I'm beginner;)
-Imports:ggplot2
+Imports:
+    ggplot2
 URL: http://github.com/mkdyderski/MKDgeobot
 BugReports: http://github.com/mkdyderski/MKDgeobot/issues
