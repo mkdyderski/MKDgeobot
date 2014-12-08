@@ -38,12 +38,23 @@ tabelka=function(eco,tab){
   ile= function (w,co,key) length(which(eco[which(tab[w,]!=0),co]==key))
   n_zd=1:length(tab[,1])
   rich=sapply(n_zd, function(x)length(which(tab[x,]!=0)))
-  envi_df=data.frame(sp=sapply(n_zd, ile,co=3, key="sp")/rich, 
-                     ap=sapply(n_zd, ile,co=3, key="ap")/rich,oxysph=sapply(n_zd, ile,co=8, key="Oxy-Sphag")/rich,stemed=sapply(n_zd, ile,co=8, key="Ste-med.")/rich,qrp=sapply(n_zd, ile,co=8, key="Q. roboris-petrae")/rich, kn=sapply(n_zd, ile,co=3, key="kn")/rich,
-                     qf=sapply(n_zd, ile,co=8, key="Que-Fag")/rich, alnetea=sapply(n_zd, ile,co=8, key="Alnetea")/rich,
-                     vacpic=sapply(n_zd, ile,co=8, key="Vac-Pic")/rich,phrag=sapply(n_zd, ile,co=8, key="Phragm")/rich,art=sapply(n_zd, ile,co=8, key="Art.-Vulg")/rich,
-                     molarr=sapply(n_zd, ile,co=8, key="Mol-Arr")/rich,sch_car=sapply(n_zd, ile,co=8, key="Sch-Cari")/rich,oldfor=sapply(n_zd,ile,co=15, key=1), rich=rich)
-nam_vegtab=colnames(tab)#niezgodność nazw w zdjęciach i bazie eco
+  envi_df=data.frame(
+    sp=sapply(n_zd, ile,co= which(colnames(eco)=="hg"), key="sp")/rich, 
+    ap=sapply(n_zd, ile,co=which(colnames(eco)=="hg"), key="ap")/rich,
+    kn=sapply(n_zd, ile,co=which(colnames(eco)=="hg"), key="kn")/rich,
+    oxysph=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Oxy-Sphag")/rich,
+    stemed=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Ste-med.")/rich,
+    qrp=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Q. roboris-petrae")/rich, 
+    qf=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Que-Fag")/rich, 
+    alnetea=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Alnetea")/rich,
+    vacpic=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Vac-Pic")/rich,
+    phrag=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Phragm")/rich,
+    art=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Art.-Vulg")/rich,
+    molarr=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Mol-Arr")/rich,
+    sch_car=sapply(n_zd, ile,co=which(colnames(eco)=="class"), key="Sch-Cari")/rich,
+    oldfor=sapply(n_zd,ile,co=which(colnames(eco)=="stare.lasy"), key=1), 
+    rich=rich)
+  nam_vegtab=colnames(tab)#niezgodność nazw w zdjęciach i bazie eco
  nam_vegtab=sapply(2:length(nam_vegtab),function(x)strsplit(nam_vegtab,"_")[[x]][1])
  nam_vegtab=sub("\\."," ",nam_vegtab)
  nam_vegtab=sub("\\.","-",nam_vegtab)
