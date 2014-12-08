@@ -48,7 +48,7 @@ tabelka <- function(eco,tab, type="veg"){
     nam_vegtab=sapply(1:length(nam_vegtab),function(x)strsplit(nam_vegtab,"_")[[x]][1])
     nam_vegtab=sub("\\."," ",nam_vegtab)
     nam_vegtab=sub("\\.","-",nam_vegtab)
-    ile <- function(w,co,key)length(which(eco[,co][match(nam_vegtab[which(pctab[w,]!=0)],pceco$nam)]==key))   
+    ile <- function(w,co,key)length(which(eco[,co][match(nam_vegtab[which(tab[w,]!=0)],eco$nam)]==key))   
     n_zd <- 1:length(tab[,1]) #number of releves
     rich <- sapply(n_zd, function(x)length(which(tab[x,]!=0))) #species richness
     envi_df=data.frame(

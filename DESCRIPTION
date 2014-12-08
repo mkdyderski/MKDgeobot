@@ -1,7 +1,7 @@
 Package: MKDgeobot
 Type: Package
 Title: Some functions to maintain geobotanic data
-Version: 0.2
+Version: 0.3.0.1
 Date: 2014-12-06
 Author: Marcin K. Dyderski
 Maintainer: Marcin K. Dyderski <Marcin.Dyderski@gmail.com>
